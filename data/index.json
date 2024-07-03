@@ -87,50 +87,97 @@
         ],
         "testimonials": [
             {
-                "author": "Joel Mukanya",
-                "quote": "Nasheeta s a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer."
+                "name": "Joel Mukanya",
+                "role": "Lecturer/Mentor",
+                "quote": "Nasheeta s a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
+                "profile": ""
             },
             {
-                "author": "Azhar Jacobs",
-                "quote": "Nasheeta has an infectious personality, Nasheeta's intelligence shines brightly, evident in her insightful conversations and problem-solving skills. She has a remarkable ability to make everyone around her feel valued and appreciated, and her inner beauty radiates in everything she does. Nasheeta is not just a friend; she's a beautiful soul who enriches the lives of those lucky enough to know her."
+                "name": "Azhar Jacobs",
+                "role": "Colleague",
+                "quote": "Nasheeta has an infectious personality, Nasheeta's intelligence shines brightly, evident in her insightful conversations and problem-solving skills. She has a remarkable ability to make everyone around her feel valued and appreciated, and her inner beauty radiates in everything she does. Nasheeta is not just a friend; she's a beautiful soul who enriches the lives of those lucky enough to know her.",
+                "profile": ""
             },
             {
-                "author": "Zakariya Salie",
-                "quote": "Allow me to introduce Nasheeta Jacobs, a dynamic presence in the coding sphere. Nasheeta doesn't just possess coding expertise; she injects her work with abundant creativity and a vibrant energy that's truly captivating. Collaborating with Nasheeta is an absolute delight."
+                "name": "Zakariya Salie",
+                "role": "Colleague",
+                "quote": "Allow me to introduce Nasheeta Jacobs, a dynamic presence in the coding sphere. Nasheeta doesn't just possess coding expertise; she injects her work with abundant creativity and a vibrant energy that's truly captivating. Collaborating with Nasheeta is an absolute delight.",
+                "profile": ""
             },
             {
-                "author": "Amy Johnson",
-                "quote": "Nasheeta is an individual characterized by a strong work ethic, demonstrating dedication and persistence in all tasks undertaken. She approaches challenges with a practical mindset, focusing on finding effective solutions through her determined efforts. Moreover, Nasheeta is highly interactive, fostering positive relationships and communication with others."
+                "name": "Amy Johnson",
+                "role": "Colleague",
+                "quote": "Nasheeta is an individual characterized by a strong work ethic, demonstrating dedication and persistence in all tasks undertaken. She approaches challenges with a practical mindset, focusing on finding effective solutions through her determined efforts. Moreover, Nasheeta is highly interactive, fostering positive relationships and communication with others.",
+                "profile": ""
             },
             {
-                "author": "Jamin Langeveldt",
-                "quote": "Working alongside Nasheeta has been an absolute pleasure. Her dedication, attention to detail, and unwavering commitment to excellence have consistently impressed me. Nasheeta's ability to navigate challenges with grace and creativity is truly admirable, making her an invaluable asset to any team or project."
+                "name": "Jamin Langeveldt",
+                "role": "Colleague",
+                "quote": "Working alongside Nasheeta has been an absolute pleasure. Her dedication, attention to detail, and unwavering commitment to excellence have consistently impressed me. Nasheeta's ability to navigate challenges with grace and creativity is truly admirable, making her an invaluable asset to any team or project.",
+                "profile": ""
             }
         ],
         "projects": [
             {
+                "id": 1,
                 "title": "JS Calculator",
+                "image": "https://nasheetajacobs1999.github.io/allimages/images/My Calculator.png",
                 "description": "Developed a calculator",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "year": 2024
+                "year": 2024,
+                "vercel": "https://calculator-murex-pi.vercel.app/",
+                "github": "https://github.com/NasheetaJacobs1999/calculator.git"
             },
             {
-                "title": "Portfolio",
+                "id": 2,
+                "title": "Bootstrap Portfolio",
+                "image": "https://nasheetajacobs1999.github.io/allimages/images/BootStrapPort.png",
                 "description": "Developed a portfolio displaying my information",
                 "technologies": ["HTML", "CSS", "Bootstrap"],
-                "year": 2024
+                "year": 2024,
+                "vercel": "https://nasheeta-portfolio.vercel.app/",
+                "github": "https://github.com/NasheetaJacobs1999/NasheetaPortfolio.git"
             },
             {
+                "id": 3,
                 "title": "To Do List",
+                "image": "https://nasheetajacobs1999.github.io/allimages/images/ToDoList.png",
                 "description": "Developed a to do list",
                 "technologies": ["HTML", "CSS", "JavaScript"],
-                "year": 2024
+                "year": 2024,
+                "vercel": "https://to-do-list-theta-tawny.vercel.app/",
+                "github": "https://github.com/NasheetaJacobs1999/toDoList.git"
             },
             {
+                "id": 4,
                 "title": "JS Ecommerce Website",
+                "image": "https://nasheetajacobs1999.github.io/allimages/images/JsEOMP.png",
                 "description": "Developed a store website with functionality",
                 "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
-                "year": 2024
+                "year": 2024,
+                "vercel": "https://js-complete-project.vercel.app/",
+                "github": "https://github.com/NasheetaJacobs1999/JsCompleteProject.git"
+            },
+            {
+                "id": 5,
+                "title": "BMI Calculator",
+                "image": "https://nasheetajacobs1999.github.io/allimages/images/BMICalculator.png",
+                "description": "Developed a BMI calculator",
+                "technologies": ["HTML", "CSS", 
+                "JavaScript"],
+                "year": 2024,
+                "vercel": "https://bm-icalculator-phi.vercel.app/",
+                "github": "https://github.com/NasheetaJacobs1999/BMIcalculator.git"
+            },
+            {
+                "id": 6,
+                "title": "Temperature Converter",
+                "image": "https://nasheetajacobs1999.github.io/allimages/images/TempCalculator.png",
+                "description": "Developed a temperature converter",
+                "technologies": ["HTML", "CSS", "JavaScript"],
+                "year": 2024,
+                "vercel": "https://temp-calculator-self.vercel.app/",
+                "github": "https://github.com/NasheetaJacobs1999/tempCalculator.git"
             }
         ]
     }
