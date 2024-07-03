@@ -117,65 +117,65 @@
         ],
         "projects": [
             {
-                "id": 1,
-                "title": "JS Calculator",
-                "image": "https://nasheetajacobs1999.github.io/allimages/images/My Calculator.png",
-                "description": "Developed a calculator",
+                "ID": 1,
+                "Title": "JS Calculator",
+                "Image": "https://nasheetajacobs1999.github.io/allimages/images/My Calculator.png",
+                "Description": "Developed a calculator",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "year": 2024,
-                "vercel": "https://calculator-murex-pi.vercel.app/",
-                "github": "https://github.com/NasheetaJacobs1999/calculator.git"
+                "Vercel": "https://calculator-murex-pi.vercel.app/",
+                "Github": "https://github.com/NasheetaJacobs1999/calculator.git"
             },
             {
-                "id": 2,
-                "title": "Bootstrap Portfolio",
-                "image": "https://nasheetajacobs1999.github.io/allimages/images/BootStrapPort.png",
-                "description": "Developed a portfolio displaying my information",
+                "ID": 2,
+                "Title": "Bootstrap Portfolio",
+                "Image": "https://nasheetajacobs1999.github.io/allimages/images/BootStrapPort.png",
+                "Description": "Developed a portfolio displaying my information",
                 "technologies": ["HTML", "CSS", "Bootstrap"],
                 "year": 2024,
-                "vercel": "https://nasheeta-portfolio.vercel.app/",
-                "github": "https://github.com/NasheetaJacobs1999/NasheetaPortfolio.git"
+                "Vercel": "https://nasheeta-portfolio.vercel.app/",
+                "Github": "https://github.com/NasheetaJacobs1999/NasheetaPortfolio.git"
             },
             {
-                "id": 3,
-                "title": "To Do List",
-                "image": "https://nasheetajacobs1999.github.io/allimages/images/ToDoList.png",
-                "description": "Developed a to do list",
+                "ID": 3,
+                "Title": "To Do List",
+                "Image": "https://nasheetajacobs1999.github.io/allimages/images/ToDoList.png",
+                "Description": "Developed a to do list",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "year": 2024,
-                "vercel": "https://to-do-list-theta-tawny.vercel.app/",
-                "github": "https://github.com/NasheetaJacobs1999/toDoList.git"
+                "Vercel": "https://to-do-list-theta-tawny.vercel.app/",
+                "Github": "https://github.com/NasheetaJacobs1999/toDoList.git"
             },
             {
-                "id": 4,
-                "title": "JS Ecommerce Website",
-                "image": "https://nasheetajacobs1999.github.io/allimages/images/JsEOMP.png",
-                "description": "Developed a store website with functionality",
+                "ID": 4,
+                "Title": "JS Ecommerce Website",
+                "Image": "https://nasheetajacobs1999.github.io/allimages/images/JsEOMP.png",
+                "Description": "Developed a store website with functionality",
                 "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
                 "year": 2024,
-                "vercel": "https://js-complete-project.vercel.app/",
-                "github": "https://github.com/NasheetaJacobs1999/JsCompleteProject.git"
+                "Vercel": "https://js-complete-project.vercel.app/",
+                "Github": "https://github.com/NasheetaJacobs1999/JsCompleteProject.git"
             },
             {
-                "id": 5,
-                "title": "BMI Calculator",
-                "image": "https://nasheetajacobs1999.github.io/allimages/images/BMICalculator.png",
-                "description": "Developed a BMI calculator",
+                "ID": 5,
+                "Title": "BMI Calculator",
+                "Image": "https://nasheetajacobs1999.github.io/allimages/images/BMICalculator.png",
+                "Description": "Developed a BMI calculator",
                 "technologies": ["HTML", "CSS", 
                 "JavaScript"],
                 "year": 2024,
-                "vercel": "https://bm-icalculator-phi.vercel.app/",
-                "github": "https://github.com/NasheetaJacobs1999/BMIcalculator.git"
+                "Vercel": "https://bm-icalculator-phi.vercel.app/",
+                "Github": "https://github.com/NasheetaJacobs1999/BMIcalculator.git"
             },
             {
-                "id": 6,
-                "title": "Temperature Converter",
-                "image": "https://nasheetajacobs1999.github.io/allimages/images/TempCalculator.png",
-                "description": "Developed a temperature converter",
+                "ID": 6,
+                "Title": "Temperature Converter",
+                "Image": "https://nasheetajacobs1999.github.io/allimages/images/TempCalculator.png",
+                "Description": "Developed a temperature converter",
                 "technologies": ["HTML", "CSS", "JavaScript"],
                 "year": 2024,
-                "vercel": "https://temp-calculator-self.vercel.app/",
-                "github": "https://github.com/NasheetaJacobs1999/tempCalculator.git"
+                "Vercel": "https://temp-calculator-self.vercel.app/",
+                "Github": "https://github.com/NasheetaJacobs1999/tempCalculator.git"
             }
         ]
     }
