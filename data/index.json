@@ -9,8 +9,6 @@
         "email": "nasheetahjacobs@gmail.com",
         "mobile": "+27635856284",
         "social media": {
-            "facebook": "https://www.facebook.com/nasheetah.jacobs",
-            "instagram": "https://www.instagram.com/nasheetajacobs",
             "github": "https://github.com/NasheetaJacobs1999",
             "linkedin": "https://www.linkedin.com/in/nasheeta-jacobs-2b2196269/"
         },
@@ -90,31 +88,31 @@
                 "name": "Joel Mukanya",
                 "role": "Lecturer/Mentor",
                 "quote": "Nasheeta s a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
-                "profile": ""
+                "profile": "https://nasheetajacobs1999.github.io/allimages/images/joel2.jpg"
             },
             {
                 "name": "Azhar Jacobs",
                 "role": "Colleague",
                 "quote": "Nasheeta has an infectious personality, Nasheeta's intelligence shines brightly, evident in her insightful conversations and problem-solving skills. She has a remarkable ability to make everyone around her feel valued and appreciated, and her inner beauty radiates in everything she does. Nasheeta is not just a friend; she's a beautiful soul who enriches the lives of those lucky enough to know her.",
-                "profile": ""
+                "profile": "https://nasheetajacobs1999.github.io/allimages/images/Azhar.jpg"
             },
             {
                 "name": "Zakariya Salie",
                 "role": "Colleague",
                 "quote": "Allow me to introduce Nasheeta Jacobs, a dynamic presence in the coding sphere. Nasheeta doesn't just possess coding expertise; she injects her work with abundant creativity and a vibrant energy that's truly captivating. Collaborating with Nasheeta is an absolute delight.",
-                "profile": ""
+                "profile": "https://nasheetajacobs1999.github.io/allimages/images/Zak.jpg"
             },
             {
                 "name": "Amy Johnson",
                 "role": "Colleague",
                 "quote": "Nasheeta is an individual characterized by a strong work ethic, demonstrating dedication and persistence in all tasks undertaken. She approaches challenges with a practical mindset, focusing on finding effective solutions through her determined efforts. Moreover, Nasheeta is highly interactive, fostering positive relationships and communication with others.",
-                "profile": ""
+                "profile": "https://nasheetajacobs1999.github.io/allimages/images/Amy.jpg"
             },
             {
                 "name": "Jamin Langeveldt",
                 "role": "Colleague",
                 "quote": "Working alongside Nasheeta has been an absolute pleasure. Her dedication, attention to detail, and unwavering commitment to excellence have consistently impressed me. Nasheeta's ability to navigate challenges with grace and creativity is truly admirable, making her an invaluable asset to any team or project.",
-                "profile": ""
+                "profile": "https://nasheetajacobs1999.github.io/allimages/images/Jamin.jpg"
             }
         ],
         "projects": [
