@@ -76,27 +76,29 @@
         ],
         "skills": [
             {
-                "skill":"HTML"
+                "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com.png"
             },
             {
-                "skill":"CSS"
+                "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com (2).png"
             },
             {
-                "skill":"JavaScript"
+                "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com (1).png"
             },
             {
-                "skill":"Bootstrap"
+                "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com (3).png"
             },
             {
-               "skill":"Figma"
+               "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com (4).png"
             },
             {
-                "skill":"Vercel"
+                "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com (5).png"
             },
             {
-                "skill":"GitHub"
-            }      
-        ],
+                "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com (6).png"
+            },
+            {
+                "skill":"https://nasheetajacobs1999.github.io/allimages/images/pngwing.com (7).png"
+            }       ],
         "testimonials": [
             {
                 "ID": 1,
