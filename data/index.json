@@ -75,14 +75,30 @@
             "Always looking for continuous improvement in developing new skills"
         ],
         "skills": [
-            "Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "Bootstrap",
-            "Figma",
-            "Vercel",
-            "GitHub"
+            {
+                "skill":"Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)"
+            },
+            {
+                "skill":"HTML"
+            },
+            {
+                "skill":"CSS"
+            },
+            {
+                "skill":"JavaScript"
+            },
+            {
+                "skill":"Bootstrap"
+            },
+            {
+               "skill":"Figma"
+            },
+            {
+                "skill":"Vercel"
+            },
+            {
+                "skill":"GitHub"
+            }      
         ],
         "testimonials": [
             {
