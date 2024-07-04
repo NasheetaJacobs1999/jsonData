@@ -76,7 +76,16 @@
         ],
         "skills": [
             {
-                "skill":"Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)"
+                "skill":"Word"
+            },
+            {
+                "skill":"Excel"
+            },
+            {
+                "skill":"PowerPoint"
+            },
+            {
+                "skill":"Outlook)"
             },
             {
                 "skill":"HTML"
