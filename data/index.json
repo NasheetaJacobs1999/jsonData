@@ -37,31 +37,32 @@
     "records": {
         "education": [
             {
-                "certificate": "Matric",
-                "school": "The Oracle Academy",
-                "year": 2019
+                "ID": 1,
+                "title": "The Oracle Academy",
+                "year": "2015 - 2019",
+                "description": "I attended The Oracle Academy and passed with a Bachelors Pass."
             }
         ],
-        "work experience": [
+        "experience": [
             {
+                "ID": 1,
                 "company": "RSG Safety Glass Products",
                 "title": "Customer Service",
-                "yearStarted": 2019,
-                "yearEnded": 2020,
+                "year": "2019 - 2020",
                 "description": "Liaising with customers on order progress, compiling job cards for manufacturing of jobs, daily analysis of Work-in-progress production scheduling, planning production schedule with factory manager to ensure that lead times are achieved"
             },
             {
+                "ID": 2,
                 "company": "Miron Frameless Glass Designs",
                 "title": "Junior Estimator",
-                "yearStarted": 2020,
-                "yearEnded": 2021,
+                "year": "2020 - 2021",
                 "description": "Finding out the client requirements, researching materials, equipment and labour costs, gathering quotes from sub contractors and suppliers, assessing levels of risk on projects, analyzing company data, exchange rates and prices, preparing and submitting quotes for work to be done, compiling and filing project information, compiling daily information for job costing, preparing project progress reports for management"  
             },
             {
+                "ID": 3,
                 "company": "Ticktin Timbers",
                 "title": "Administrator/Receptionist",
-                "yearStarted": 2021,
-                "yearEnded": 2023,
+                "year": "2021 - 2023",
                 "description": "Answering incoming calls and redirecting to the respective person, taking messages where the respective person is unable to take the call, receive payments from customers, capturing of all payment (cash and credit card) on Pastel Accounting, reconciling cash and credit card payments on a daily basis, tracking all payments, scanning of all documents into sequence files, assisting the accounts manager with his functions from time-to-time, organizing of functions for the company, purchasing of stationary and other consumables"  
             }
         ],
@@ -125,9 +126,7 @@
                 "ID": 1,
                 "Title": "JS Calculator",
                 "Image": "https://nasheetajacobs1999.github.io/allimages/images/My Calculator.png",
-                "Description": "Developed a calculator",
-                "technologies": ["HTML", "CSS", "JavaScript"],
-                "year": 2024,
+                "Description": "Developed a calculator using HTML, CSS, JavaScript",
                 "Vercel": "https://calculator-murex-pi.vercel.app/",
                 "Github": "https://github.com/NasheetaJacobs1999/calculator.git"
             },
@@ -135,9 +134,7 @@
                 "ID": 2,
                 "Title": "Bootstrap Portfolio",
                 "Image": "https://nasheetajacobs1999.github.io/allimages/images/BootStrapPort.png",
-                "Description": "Developed a portfolio displaying my information",
-                "technologies": ["HTML", "CSS", "Bootstrap"],
-                "year": 2024,
+                "Description": "Developed a portfolio displaying my information using HTML, CSS Bootstrap",
                 "Vercel": "https://nasheeta-portfolio.vercel.app/",
                 "Github": "https://github.com/NasheetaJacobs1999/NasheetaPortfolio.git"
             },
@@ -145,9 +142,7 @@
                 "ID": 3,
                 "Title": "To Do List",
                 "Image": "https://nasheetajacobs1999.github.io/allimages/images/ToDoList.png",
-                "Description": "Developed a to do list",
-                "technologies": ["HTML", "CSS", "JavaScript"],
-                "year": 2024,
+                "Description": "Developed a to do list using HTML, CSS, JavaScript",
                 "Vercel": "https://to-do-list-theta-tawny.vercel.app/",
                 "Github": "https://github.com/NasheetaJacobs1999/toDoList.git"
             },
@@ -155,9 +150,7 @@
                 "ID": 4,
                 "Title": "JS Ecommerce Website",
                 "Image": "https://nasheetajacobs1999.github.io/allimages/images/JsEOMP.png",
-                "Description": "Developed a store website with functionality",
-                "technologies": ["HTML", "CSS", "Bootstrap", "JavaScript"],
-                "year": 2024,
+                "Description": "Developed a store website with functionality using HTML, CSS, Bootstrap, JavaScript",
                 "Vercel": "https://js-complete-project.vercel.app/",
                 "Github": "https://github.com/NasheetaJacobs1999/JsCompleteProject.git"
             },
@@ -165,10 +158,7 @@
                 "ID": 5,
                 "Title": "BMI Calculator",
                 "Image": "https://nasheetajacobs1999.github.io/allimages/images/BMICalculator.png",
-                "Description": "Developed a BMI calculator",
-                "technologies": ["HTML", "CSS", 
-                "JavaScript"],
-                "year": 2024,
+                "Description": "Developed a BMI calculator using HTML, CSS, JavaScript",
                 "Vercel": "https://bm-icalculator-phi.vercel.app/",
                 "Github": "https://github.com/NasheetaJacobs1999/BMIcalculator.git"
             },
@@ -176,9 +166,7 @@
                 "ID": 6,
                 "Title": "Temperature Converter",
                 "Image": "https://nasheetajacobs1999.github.io/allimages/images/TempCalculator.png",
-                "Description": "Developed a temperature converter",
-                "technologies": ["HTML", "CSS", "JavaScript"],
-                "year": 2024,
+                "Description": "Developed a temperature converter using HTML, CSS, JavaScript",
                 "Vercel": "https://temp-calculator-self.vercel.app/",
                 "Github": "https://github.com/NasheetaJacobs1999/tempCalculator.git"
             }
